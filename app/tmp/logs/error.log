@@ -3253,3 +3253,43 @@ Request URL: /cake_day1/bootstrap.min.js
 Stack Trace:
 #0 /Applications/MAMP/htdocs/cake_day1/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-08-07 07:33:54 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:33:54 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:34:30 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:34:30 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:34:33 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:34:33 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:34:59 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:35:00 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
